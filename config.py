@@ -1,0 +1,1 @@
+database_config = {'host': '34.94.60.13', 'db': 'discord_db', 'user': 'root', 'password': 'EWjh!7@3', "autocommit": True}
